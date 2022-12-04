@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 
-## Projeto
+## 💻 Projeto
 
 <p>Cadastro de Usuários</p>
 
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </br></br>
 <img src="src/assets/imgs/project.jpeg"/>
 
-## Instalação
+## 🔖 Instalação
 
 * Baixar o NPM e o Node
 
@@ -43,3 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   * `npm start`
   
 * Caso a aplicação rode normalmente, estará disponível em `localhost:3000`
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
