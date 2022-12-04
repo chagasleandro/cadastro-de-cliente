@@ -22,7 +22,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 
-# Cadastro de Usuários
+## Projeto
+
+<p>Cadastro de Usuários</p>
 
 <p>Um simples CRUD feito com React, Bootstrap, HTML5 e CSS3 com seu sistema de grids.</p>
 </br></br>
